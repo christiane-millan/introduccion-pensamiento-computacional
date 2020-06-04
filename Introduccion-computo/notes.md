@@ -22,9 +22,11 @@ foto
 
 ### Máquinas tabuladoras
 
-Para finales del siglo XIX se utilizan máquinas que automatizaban cálculos. Un ejemplo fue el censo de EEUU de acuerdo a la magnitud del conteo se utilizan máquinas para realizar los calculos del censo y cumplir constitucionalmente al censo de cada 10 años.
+Para finales del siglo XIX se implementaron máquinas que automatizaban los cálculos. Un ejemplo fue el censo de EEUU, de acuerdo a la magnitud del conteo se utilizaron máquinas para realizar el censo y cumplir constitucionalmente esta actividad realizada cada 10 años. Y que de otro modo, no se hubiese podido cumplir por la escala de los cálculos.
 
-En esa epoca, el concepto de **computadora** se refiería a las personas que realizaban calculos de manera mecánica.
+A finales de este siglo, la necesidad de la necesidad de procesamientos, de gran escala y con alta precisión, era cada vez más común. En esa época, el concepto de **computadora** se refiería a las personas que realizaban cálculos de manera mecánica. Sin embargo, la condición humana generaba demasiados errores.
+
+### A finales de los 30's
 
 
 
