@@ -25,6 +25,24 @@ A finales de este siglo, la necesidad de la necesidad de procesamientos, de gran
 
 ### A finales de los 30's
 
+Alan Turing Alonso Church (funciones) matematicamento todos los algoritmos eran la misma secuencia de instrucciones. Se dío la carrera por construir la primera computadora electrónica.
+
+ENIAC (*Electronic Numerical Integrator and Computer*) primera computadora digital. Para utilizar esta computadora se programaba mediante reconfiguraciones  de cables. A demas, utilizaba sistema decimal.
+
+Von Neumman, primera coputadora para colocar un programa en memoria y ejecutarlos.
+
+Microschips son la revolución de la computación. 
+
+A pesar de los avances de computación, hay problemas que no se pueden resolver a través de la computadora.
+
+Richar Feyman, aportó las bases del computo cuántico. Nuevas bases matemáticas para llevar a lo físico su aplicación. El chip cuático es el resultado de estas investigaciones.
+
+### Arquitectura de las computadoras
+
+Dentro de la Unidad Central de Procesamiento o CPU, esta compuesta por la unidad de control y una unidad aritmética/lógica. Y se apoyan de unidades de entrada y salida.
+
+**Conclusión**. Existen problemas que no se pueden resolver con la computadora.
+
 
 
 
