@@ -60,3 +60,9 @@ C Deniss Ritchie
 Python Guido van Rossum
 
 Todos los lenguajes tienen una sintaxis, semántica estática y semántica.
+
+Clasificación de los lenguajes:
+
+- Alto o bajo nivel
+- General o específico
+- Compilado o interprétado
