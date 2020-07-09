@@ -43,7 +43,20 @@ Dentro de la Unidad Central de Procesamiento o CPU, esta compuesta por la unidad
 
 **Conclusión**. Existen problemas que no se pueden resolver con la computadora.
 
+### Lenguajes de programación 
 
+Conocimiento declarativo e imperativo
 
+**Algoritmo** es una secuencia de pasos precisa, finita que no lleva a una solución.
 
+Papel de: 
 
+- Ada Lovelace, dentro de la programación
+- Grace Hooper, 
+
+Pasamos de la programación en código binario a lenguajes de alto nivel.
+
+C Deniss Ritchie
+Python Guido van Rossum
+
+Todos los lenguajes tienen una sintaxis, semántica estática y semántica.
